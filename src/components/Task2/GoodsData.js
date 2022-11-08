@@ -1,6 +1,6 @@
 export const Data = [{
 	img: 'https://cdn1.riastatic.com/photos/ir/new/auto/photo/mercedes-benz_s-class__470111756-620x415x70.webp',
-	name: 'Mercedes-Benz W211 (S-class)',
+	name: 'Mercedes-Benz W221 (S-class)',
 	price: '16000',
 },
 {
