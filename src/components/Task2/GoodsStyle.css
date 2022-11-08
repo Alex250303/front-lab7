@@ -1,0 +1,21 @@
+.container {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+
+.image {
+   width: 200px;
+}
+
+.product {
+   margin: 15px;
+   padding: 5px;
+   width: 200px;
+   box-shadow: 1px 1px 1px grey, -1px -1px 1px grey;
+   transition:  transform 250ms ease-in-out;
+}
+
+.product:hover {
+	transform: scale(1.09);
+}
