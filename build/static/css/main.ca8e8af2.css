@@ -1,0 +1,2 @@
+.container{display:flex;flex-direction:row;flex-wrap:wrap}.image,.product{width:200px}.product{box-shadow:1px 1px 1px grey,-1px -1px 1px grey;margin:15px;padding:5px;transition:-webkit-transform .25s ease-in-out;transition:transform .25s ease-in-out;transition:transform .25s ease-in-out,-webkit-transform .25s ease-in-out}.product:hover{-webkit-transform:scale(1.09);transform:scale(1.09)}
+/*# sourceMappingURL=main.ca8e8af2.css.map*/
